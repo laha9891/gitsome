@@ -1,4 +1,4 @@
-#GIT SOME
-##while its hot
+# GIT SOME
+## while its hot
 ### no need to wait
-#### whaaaT?
+#### whaaaT? dont put space between pound and words
